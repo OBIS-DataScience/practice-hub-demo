@@ -1,1 +1,3 @@
-window.HUB_SITE = { salt: 'fa1179f6d166178cb526455591cab966', iterations: 310000, hash: '8dbaf9354ce62c7d6938e8883533b0bc56d6d7f8025e31d1668ae1418e080e17' };
+// Made by scripts/set-demo-password.js. This is a one-way fingerprint of the demo password,
+// not the password itself. To change the password, run that script again.
+window.HUB_SITE = { salt: 'f5798fd34971b23e0e6cf358aee5ea58', iterations: 310000, hash: '0684e6b972055c97752ae18ad01c80ec6c4d30743214a17acaf9731a14716a6c' };
